@@ -17,6 +17,17 @@
   <h3>Progress</h3>
   <ul>
     <li>
+      <p>23 - 09 - 2021</p>
+      <p>Installed Django and initialised the working directory with the command <code>djgano-admin startproject mysite</code></p>
+      <p>Wasted too much time by mixing up <code>virtual environment</code>, <code>git repo</code> and <code>gitignore</code> at various stages and finally destroying the repo with unwanted commits and total chaos.</p>
+    </li>
+  </ul>
+</div>
+
+<div>
+  <h3>Progress</h3>
+  <ul>
+    <li>
       <p>14 - 09 - 2021</p>
       <p>Created the repository and a MD file to track my progress</p>
     </li>
