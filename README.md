@@ -17,9 +17,17 @@
   <ul>
     <li>
       <strong><em><p>05 - 10 - 2021</p></em></strong>
-      <p>as the tutorial progresses i can now understand why Django is so much more powerful at the same time very much rule based compared to Flask. That is with more automation comes more difficulty in customisation. But the good side is the so called customisations are only hardcore settings so we don't have any need to customise them unless really really necessary.</p>
-      <p>Yea, i am talking about database models and migrations. I previously had used Flask to build a couple web apps and database creation was the most boring part of it. But in Django all you have to so is provide the blueprint and the name database you are using and viola! Django has created those tables and relations in few lines of codes.</p>
-      <p><em>Can't wait to accidently drop live database in style! </em>🤟</p>
+      <p>As the tutorial progresses i can now understand why Django is so much more powerful at the same time very much rule based compared to Flask. A feature, that helps fulfil the plug-and-play philosophy of django.</p>
+      <p>Yes, i am talking about database models and migrations provided in Django. With more automation comes more difficulty in customisation but for django the good side of this dilemma is that, the so called customisations are only applicable hardcore settings so in real life scenarios we wont be touching those parameters unless its really really really necessary.</p>
+      <p>I had previously used Flask webframework to build a couple of web apps and in those projects, database creation was the most boring part. But in Django all you have to do is -</p>
+      <ul>
+        <li>provide the blueprint and the name of the database you are using by editing the <code>settings.py</code> and <code>models.py</code> file</li>
+        <li>run the <code>makemigrations</code> command to generate the the overview of operations to be executed inside the databse</li>
+        <li>run the <code>sqlmigrate</code> to preview the actual code that is required to be run inside the database engine in order to create the required tables and relations. This execution code will be generated for the database engine you chose. In my case SQL.</li>
+        <li>Finally just run <code>python manage.py migrate</code> and voila! just like that Django has done its magic and the database is now live and ready to use.</li>
+      </ul>
+      <br>
+      <p><em>Can't wait to accidently drop the live database in style! </em>🤟</p>
     </li>
     <br>
     <li>
