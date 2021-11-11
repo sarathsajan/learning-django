@@ -16,6 +16,12 @@
 <div>
   <ul>
     <li>
+      <strong><em><p>11 - 11 - 2021</p></em></strong>
+      <p>It feels good to be back after such a long time. And ohh by the way the reason fo such long absence was that I got selected for a job at Tata Consultancy Services and the past month was hectic with all the documents and background checks and mandatory courses to be completed before "starting to work". I was so busy that I forgot about this django thing. Now that I am a bit relieved from all that chaos, I can continue learning django. Well to be frank this is hard to come one month later and then look at the codebase and dont know what shit is on screen. So today was mostly me catching up on the django code of the past to understand what scrambled egg omelette had I made. Once that was done, there wasn't much to do in the 2nd section of the tutorial. Just familiarised with the built-in API provided by django to access the database and then towards the end, the creation of the admin site and all the mumbo jumbo related to that.</p>
+      <p>So that was it. There was no hardcore code section just some theory and dabbling with the database using the interactive python shell and familiarisation of the django admin site and its working and its purpose and how we can register our Polls app with the admin site. Kids stuff.</p>
+    </li>
+    <br>
+    <li>
       <strong><em><p>05 - 10 - 2021</p></em></strong>
       <p>As the tutorial progresses i can now understand why Django is so much more powerful at the same time very much rule based compared to Flask. A feature, that helps fulfil the plug-and-play philosophy of django.</p>
       <p>Yes, i am talking about database models and migrations provided in Django. With more automation comes more difficulty in customisation but for django the good side of this dilemma is that, the so called customisations are only applicable hardcore settings so in real life scenarios we wont be touching those parameters unless its really really really necessary.</p>
