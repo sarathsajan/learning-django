@@ -15,9 +15,16 @@
 <strong><em><h2>Progress</h2></em></strong>
 <div>
   <ul>
+  <li>
+      <strong><em><p>26 - 11 - 2021</p></em></strong>
+      <p>This section was more of code focussed than theory. so less to write here. So basically a View has 2 duties - <span><ul><p>Return content in HttpResponse if content found</p><p>return exception in Http404 if content not found or likewise errors.</p></ul></span>This HttpResponse is kind of like a dress/package/wrapper that Django can recognise. So all we have to do is wrap our required content(image or video or audio or file etc) in this wrapper send it to Django.</p>
+      <p>Finally the Views can be hardcoded in the views.py file which is a bad practice. So we use templates for that. Templates are basically ready made files with gaps or blanks. These blanks are filled by django with required data provided in the backend. Thus we dont need to manually hardcode each view, instead can reuse whenever possible.</p>
+      <p>Next up 404 Error and Error Handling in general(special type of templates)</p>
+    </li>
+    <br>
     <li>
       <strong><em><p>26 - 11 - 2021</p></em></strong>
-      <p>Started Part 3 of the tutorial. I hope i dont get stuck in this tutorial hell. So basically today was mainly focused on Views. Views basically means what the data the public gets to see when on different urls. For eg, On index page page the view in homepage data, on Detail Entry page the view is a form for data entry. In Detail page the view in text data about the deatils of the object. So in general we can say the Views are the data  and structure of the page that is given to the front-end for display to the public.</p>
+      <p>Started Part 3 of the tutorial. I hope i dont get stuck in this tutorial hell. So basically today was mainly focused on Views. Views basically means what the data the public gets to see when on different urls. For eg, On index page page the view is homepage data, on Detail Entry page the view is a form for data entry. In Detail page the view is text data about the details of the object. So in general we can say, Views are priovides data and structure of the page that is given sent the front-end to be shown to public.</p>
       <p>Next up Templates.</p>
     </li>
     <br>
