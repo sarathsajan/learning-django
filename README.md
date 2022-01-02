@@ -15,11 +15,22 @@
 <strong><em><h2>Progress</h2></em></strong>
 <div>
   <ul>
-  <li>
-      <strong><em><p>26 - 11 - 2021</p></em></strong>
+    <li>
+      <strong><em><p>02 - 01 - 2022</p></em></strong>
+      <p><span><em>Happy New Year.</em></span></p>
+      <p>So far we wrote the backend code for the site. Now we will focus on the front-end part. It wont be a fancy front-end but instead will be a <span><em>"get things done with minimal code"</em></span> front-end.</p>In this section we focussed on improving the 'details' and 'results' page. Also we built the voting syystem, so from now on users can actually vote and the vote counter will get updated in the database.
+    </li>
+    <br>
+    <li>
+      <strong><em><p>28 - 12 - 2021</p></em></strong>
+      <p>The views can be hardcoded in the views.py file which is a bad practice. So we use templates for that. Templates are basically ready made files with gaps or blanks. These blanks are filled by django with required data provided in the backend. Thus we dont need to manually hardcode each view, instead can reuse whenever possible.</p>
+      <br>
+      <p>HttpResponse is the function that is used to render the final thing, that is we provid context data, complate path to the template file and the request data. Together HttpResponse function will create the necessary HTTP object which is then send to the browser of the user. For error handling, similar to HttpResponse there is another function called Http404. This function is used or called when the context data or the requested content doesn't exist</p>
+    </li>
+    <br>
+    <li>
+      <strong><em><p>10 - 12 - 2021</p></em></strong>
       <p>This section was more of code focussed than theory. so less to write here. So basically a View has 2 duties - <span><ul><p>Return content in HttpResponse if content found</p><p>return exception in Http404 if content not found or likewise errors.</p></ul></span>This HttpResponse is kind of like a dress/package/wrapper that Django can recognise. So all we have to do is wrap our required content(image or video or audio or file etc) in this wrapper send it to Django.</p>
-      <p>Finally the Views can be hardcoded in the views.py file which is a bad practice. So we use templates for that. Templates are basically ready made files with gaps or blanks. These blanks are filled by django with required data provided in the backend. Thus we dont need to manually hardcode each view, instead can reuse whenever possible.</p>
-      <p>Next up 404 Error and Error Handling in general(special type of templates)</p>
     </li>
     <br>
     <li>
