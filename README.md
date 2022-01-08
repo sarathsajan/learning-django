@@ -18,7 +18,7 @@
     <li>
       <strong><em><p>02 - 01 - 2022</p></em></strong>
       <p><span><em>Happy New Year.</em></span></p>
-      <p>So far we wrote the backend code for the site. Now we will focus on the front-end part. It wont be a fancy front-end but instead will be a <span><em>"get things done with minimal code"</em></span> front-end.</p>In this section we focussed on improving the 'details' and 'results' page. Also we built the voting syystem, so from now on users can actually vote and the vote counter will get updated in the database.
+      <p>So far we wrote the backend code for the site. Now we will focus on the front-end part. It wont be a fancy front-end but instead will be a <span><em>"get things done with minimal code"</em></span> front-end.</p>In this section we focussed on improving the 'details' and 'results' page of the voting app. Also we built the voting system, so from now on users can vote and the vote counter will actually get updated in the database.
     </li>
     <br>
     <li>
