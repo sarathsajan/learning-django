@@ -16,9 +16,14 @@
 <div>
   <ul>
     <li>
+      <strong><em><p>11 - 01 - 2022</p></em></strong>
+      <p>Today was boring. Entered the unglamorous but highly useful world of testing. From the very little "testing" i experienced in this tutorial, i can clearly say that testing is in another world of its own. Other than being written in python, "test code" had a very different style of code compared to what was being written so far for the webapp. It almost feels like we can completely skip the entire "testing" section and we would be able to live with that (barely). But right now my priorities are to learn django and grasp all the CRUD functionalities that can be implemented using django and built very small webapps. So i am sorry to say that i have ran through this testing section and will surely comeback to this section in future when the need comes.</p>
+    </li>
+    <br>
+    <li>
       <strong><em><p>02 - 01 - 2022</p></em></strong>
       <p><span><em>Happy New Year.</em></span></p>
-      <p>So far we wrote the backend code for the site. Now we will focus on the front-end part. It wont be a fancy front-end but instead will be a <span><em>"get things done with minimal code"</em></span> front-end.</p>In this section we focussed on improving the 'details' and 'results' page of the voting app. Also we built the voting system, so from now on users can vote and the vote counter will actually get updated in the database.
+      <p>So far we wrote the backend code for the site. Now we will focus on the front-end part. It wont be a fancy front-end but instead will be a <span><em>"get things done with minimal code"</em></span> front-end.</p><p>In this section we focussed on improving the 'details' and 'results' page of the voting app. Also we built the voting system, so from now on users can vote and the vote counter will actually get updated in the database.</p>
     </li>
     <br>
     <li>
