@@ -17,6 +17,11 @@
   <ul>
     <li>
       <strong><em><p>11 - 01 - 2022</p></em></strong>
+      <p>So finally we are inching closer and closer towards the end of this Django tutorial. Today we saw how to add static files (images, audio, CSS, JS etc) on to your webapp. So basically we can say that the back-end functionality of the webapp is almost over. Now the all that is left is your creativity on the front-end. Django can't do anything about it. I am thinking of building a small website to get a feel of the django webdev path after the tutorial. Right now all thats coming to my mind is a simple website for Forza Horizon game share-codes. Well we will see how it pans out.</p>
+    </li>
+    <br>
+    <li>
+      <strong><em><p>11 - 01 - 2022</p></em></strong>
       <p>Today was boring. Entered the unglamorous but highly useful world of testing. From the very little "testing" i experienced in this tutorial, i can clearly say that testing is in another world of its own. Other than being written in python, "test code" had a very different style of code compared to what was being written so far for the webapp. It almost feels like we can completely skip the entire "testing" section and we would be able to live with that (barely). But right now my priorities are to learn django and grasp all the CRUD functionalities that can be implemented using django and built very small webapps. So i am sorry to say that i have ran through this testing section and will surely comeback to this section in future when the need comes.</p>
     </li>
     <br>
