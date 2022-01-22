@@ -18,9 +18,7 @@
     <li>
       <strong><em><p>22 - 01 - 2022</p></em></strong>
       <p>So finally we have completed the Django tutorial document from the official django website. Did some final touch-ups in the django admin site. added some cool advanced features but the catch being they were all pre-built. so all i had to do was just load them in the code. Django admin site and its features are too OP that i feel like its much of a pain in the ass to hassle around tweaking it or implementing it for a small project. But if properly understood it can really take away that pain in jiffy.</p>
-      <br>
       <p>Truth be told, I had previous experience in building 3 Flask Webapps back in 2020, so i thought i would be able to churn out webapps day in and day out after learning django. But it turns out that django is so much more deep than flask. So completing a single basic tutorial wont be enough. I am going to have start building small webapps with django, nothing fancy, in order to get some practical grip on it. Like for example in the tutorial they did so much ready-made stuff with the auto-generated django-admin site and it was confusing AF. And i realised that i have only scratched the skin.</p>
-      <br>
       <p>And right now i am thinking of doing some practical shit with django other than this tuorial, which alone is not enough. Like building a project with django would be a great start. And for practical hands-on project there is no other better alternative than Traversy media. I learned flask framework from their YT videos. So i have faith that they might be able to help me bridge this gap from django tutorial-hell to django practical-builds. So as a closing note to this tutorial-repository, i might continue learning django but may not document it here as this tutorial is over now. If i am going to make another repo for continued learning i will that repo link here in the future. so wait for it.</p>
     </li>
     <br>
